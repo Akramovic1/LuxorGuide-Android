@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Luxor guide</string>
+    <string name="Valley">Valley of the Kings</string>
+    <string name="LuxorTemple">Luxor Temple</string>
+    <string name="LuxorMuseum">Luxor Museum</string>
+    <string name="TempleofHatshepsut">Temple of Hatshepsut at Deir el Bahari</string>
+    <string name="Tutankhamun">Tomb of King Tutankhamun</string>
+    <string name="Habu">Temple of Medinat Habu</string>
+    <string name="Nefertari">Tomb of Queen Nefertari</string>
+    <string name="Ramses">Tomb of Ramses VI</string>
+    <string name="Karnak">Karnak Open Air Museum</string>
+
+    <string name="Sahaby">Al-Sahaby Lane Restaurant</string>
+    <string name="Aisha">Aisha Restaurant</string>
+    <string name="Lantern">The Lantern Room Restaurant</string>
+    <string name="Sofra">Sofra Restaurant and Cafe</string>
+    <string name="Roma">Pizza Roma-it</string>
+    <string name="Jewel">Jewel of the Nile</string>
+    <string name="Steigenberger">Steigenberger Nile Palace Luxor Hotel</string>
+
+    <string name="Mara">Mara House</string>
+    <string name="NilePalace">Nile Palace Luxor</string>
+    <string name="Hilton">Hilton Luxor Resort and Spa</string>
+    <string name="NefertitiHotel">Nefertiti Hotel</string>
+    <string name="Sonesta">Sonesta St. George Hotel Luxor</string>
+    <string name="Moudira">Al Moudira Hotel</string>
+
+    <string name="DayTrips">Day Trips in Luxor</string>
+    <string name="AncientRuins">Luxor Ancient Ruins</string>
+    <string name="Architecture">Architecture Tours in Luxor</string>
+    <string name="Balloon">Hot Air Balloon Rides in Luxor</string>
+
+    <string name="valleyDisc">This desert valley contains the ancient burial ground of many Egyptian pharaohs. Among over 60 royal tombs is the famous Tomb of Tutankhamen that was found in pristine condition.</string>
+    <string name="LuxorTempleDesc">A temple built for the ritual practices exercised at the most important Ancient Egyptian festival, The Festival of Opet.</string>
+    <string name="LuxorMuseumDesc">A museum featuring items found beneath the Luxor Temple, and from the tomb of King Tut. Also on exhibit is a re-assembled wall from the Temple of Aten.</string>
+    <string name="HatshepsutDesc">A mortuary temple dedicated to the longest ruling female of Ancient Egypt, Queen Hatshepsut. The temple is decorated with statues, sphinxes</string>
+    <string name="TutankhamunDesc">The tomb of King Tut was discovered in the Valley of the Kings in 1922 by Howard Carter and Lord Carnarvon.</string>
+    <string name="HabuDesc">This ancient complex is dominated by the massive memorial temple of Ramses III, similar to the mortuary temple of Ramses II at Ramesseum.</string>
+    <string name="NefertariDesc">#2 of 77 things to do in Luxor
+        Ancient Ruins, Points of Interest and Landmarks, Monuments and Statues</string>
+    <string name="RamsesDesc">The key feature of this tomb, which was originally built for Ramses V and expanded by Ramses VI during the 20th Dynasty</string>
+    <string name="KarnakDesc">#10 of 77 things to do in Luxor
+        History Museums</string>
+    <string name="SahabyDesc">#1 of 55 Mediterranean in Luxor
+        #1 of 122 Restaurants in Luxor</string>
+    <string name="AishaDesc">#2 of 55 Mediterranean in Luxor
+        #2 of 122 Restaurants in Luxor</string>
+    <string name="LanternDesc">#1 of 16 International in Luxor
+        #3 of 122 Restaurants in Luxor</string>
+    <string name="SofraDesc">#1 of 4 Healthy in Luxor
+        #4 of 122 Restaurants in Luxor</string>
+    <string name="RomaDesc">#1 of 11 Italian in Luxor
+        #5 of 122 Restaurants in Luxor</string>
+    <string name="JewelDesc">#2 of 16 International in Luxor
+        #7 of 122 Restaurants in Luxor</string>
+    <string name="SteigenbergerDesc">#4 of 55 Mediterranean in Luxor
+        #10 of 122 Restaurants in Luxor</string>
+    <string name="MaraAddress">Salah Al Din Al Ayoubi, Luxor Egypt</string>
+    <string name="NilePalaceAddress">Khaled Ben El Walid Street, Luxor 85111 Egypt</string>
+    <string name="HiltonAddress">New Karnak, Luxor Egypt</string>
+    <string name="NefertitiHotelAddress">El Sahabi Street Via Luxor Temple St, Luxor 85951 Egypt</string>
+    <string name="SonestaAddress">Corniche El Nile Street, Luxor Egypt</string>
+    <string name="MoudiraAddress">West Bank Hager Al Dabbeya, Luxor 23502 Egypt</string>
+    <string name="Empty"></string>
+
+
+    Address
+
+</resources>
